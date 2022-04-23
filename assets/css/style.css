@@ -1,0 +1,32 @@
+body {
+    font-family: Roboto light, sans-serif;
+}
+.navbar-nav {
+    margin-left: auto;
+    padding-right: 20px;
+}
+
+a:hover{
+    
+    color: rgb(253, 253, 253) !important;
+    font-weight: bold;
+
+}
+
+.card-title{
+    font-weight: bold;
+    color:#212529;
+}
+.text-success {
+    font-weight: bold;
+    color: #28A745;
+    font-family: Roboto light;
+}
+.text-success:hover{
+    
+    color: #28A745 !important;
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
